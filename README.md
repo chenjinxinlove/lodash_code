@@ -1,2 +1,2 @@
 # lodash_code
-code一遍lodash的源码
+使用typescriptjs  code一遍lodash的源码
